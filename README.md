@@ -1,2 +1,2 @@
 # Housing-Price-Prediction-
-predicting housing prices using unsupervised machine learning (regression model)
+predicting housing prices using supervised machine learning (regression model)
